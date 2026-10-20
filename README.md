@@ -61,3 +61,7 @@ The source submitted was titled **"OBJECT DETECTION UNDER WATER"**, Group 9, Pha
 ## Important distinction
 
 Results mentioned in the literature survey refer to **other published research**, not benchmark results obtained by this team. Until implementation and measurements are shared, do not claim a tested accuracy, faster processing, or deployment as a finished product.
+
+## Later project notes
+
+Shravya's separately supplied interview notes describe OpenCV preprocessing and **CNN classification** of fish, human and rock images. See [reported implementation notes](docs/PROJECT_IMPLEMENTATION_NOTES.md). This later account goes beyond the original Phase I proposal, but runnable training code, datasets and measured evaluation results have not yet been provided, so the repository remains documentation-only.

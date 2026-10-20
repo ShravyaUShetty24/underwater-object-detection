@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.pt
+*.pth
+*.h5
+*.onnx
+models/
+datasets/
+.DS_Store

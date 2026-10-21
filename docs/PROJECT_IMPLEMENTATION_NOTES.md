@@ -28,7 +28,7 @@ Underwater color distortion, lighting and particle noise can reduce prediction r
 - Representative inference demo screenshots that exclude private data
 
 ## Credits
-Academic team: Shravya U Shetty, Srilakshmi HY and Suvarna. Faculty guide: Mrs. Reshma, Acharya Institute of Technology, Bengaluru.
+**Shravya U Shetty** — portfolio owner and academic project contributor, Acharya Institute of Technology, Bengaluru. The underlying academic work was undertaken as a supervised team project.
 
 ## Source distinction
 The Phase I synopsis is a planning document. The interview notes provide a **retrospective, self-reported implementation narrative**. This file reconciles their scope without promoting unverified results as independently measured outcomes.

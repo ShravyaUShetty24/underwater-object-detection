@@ -53,8 +53,8 @@ No training code, original dataset, model weights or runnable demo have been sup
 
 ## Project credits
 
-Academic team: **Shravya U Shetty, Srilakshmi HY and Suvarna**.  
-Faculty guide: **Mrs. Reshma (Assistant Professor)**, Department of Computer Science and Engineering, **Acharya Institute of Technology, Bengaluru**.
+**Shravya U Shetty** — portfolio owner and academic project contributor.  
+Collaborative student project completed with faculty guidance, Department of Computer Science and Engineering, **Acharya Institute of Technology, Bengaluru**.
 
 The source submitted was titled **"OBJECT DETECTION UNDER WATER"**, Group 9, Phase I synopsis dated **30 October 2024**.
 

@@ -35,6 +35,17 @@ The supplied project notes describe a pipeline involving **underwater image acqu
 
 See the [**full project workflow, CNN explanation and key challenges**](docs/DETAILED_PROJECT_EXPLANATION.md).
 
+## Technologies considered
+
+| Area | Methods / technology discussed |
+| --- | --- |
+| Language & image processing | Python, OpenCV |
+| Learning | Convolutional neural networks; TensorFlow / PyTorch as options |
+| Preprocessing | Color correction, denoising, contrast enhancement |
+| Generalization | Data augmentation, transfer learning |
+| Potential detection architectures | YOLO, Faster R-CNN, U-Net (listed as possibilities, not confirmed implementations) |
+| Proposed hardware | Underwater camera, protective housing, Raspberry Pi / base-station integration |
+
 ## Portfolio deliverables
 
 - [Technical methodology](docs/TECHNICAL_METHODOLOGY.md)

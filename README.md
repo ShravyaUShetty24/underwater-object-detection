@@ -48,8 +48,3 @@ See the [**full project workflow, CNN explanation and key challenges**](docs/DET
 - Academic Phase I synopsis (original academic document; not reproduced here)
 
 No training code, original dataset, model weights or runnable demo have been supplied for publication. These can be added if available and cleared for release.
-
-
-## Important distinction
-
-Results mentioned in the literature survey refer to **other published research**, not benchmark results obtained by this project. Until implementation and measurements are shared, do not claim a tested accuracy, faster processing, or deployment as a finished product.

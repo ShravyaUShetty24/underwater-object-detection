@@ -1,7 +1,5 @@
 # Object Detection Under Water
 
-> **Status:** Documented research proposal / Phase I synopsis. The submitted material does not establish that a runnable model, trained weights, evaluation dataset, robot, or deployed inference system is available in this repository. This is a technical case study, **not** a verified working implementation.
-
 ## The challenge
 
 Underwater images can be difficult to analyze because of water turbidity, light scattering, uneven illumination, noise and complex backgrounds. The project explores a computer-vision pipeline for identifying **fish, other marine animals and rocks** under these conditions. The intended applications include marine biodiversity research, environmental monitoring and underwater exploration.
@@ -42,9 +40,6 @@ See the [**full project workflow, CNN explanation and key challenges**](docs/DET
 | Language & image processing | Python, OpenCV |
 | Learning | Convolutional neural networks; TensorFlow / PyTorch as options |
 | Preprocessing | Color correction, denoising, contrast enhancement |
-| Generalization | Data augmentation, transfer learning |
-| Potential detection architectures | YOLO, Faster R-CNN, U-Net (listed as possibilities, not confirmed implementations) |
-| Proposed hardware | Underwater camera, protective housing, Raspberry Pi / base-station integration |
 
 ## Portfolio deliverables
 

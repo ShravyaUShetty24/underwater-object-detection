@@ -47,20 +47,19 @@ flowchart TD
 
 - [Technical methodology](docs/TECHNICAL_METHODOLOGY.md)
 - [Evaluation plan and project status](docs/EVALUATION_AND_STATUS.md)
-- Academic Phase I synopsis (source document held by the team; not reproduced here)
+- Academic Phase I synopsis (original academic document; not reproduced here)
 
 No training code, original dataset, model weights or runnable demo have been supplied for publication. These can be added if available and cleared for release.
 
-## Project credits
+## Portfolio profile
 
-**Shravya U Shetty** — portfolio owner and academic project contributor.  
-Collaborative student project completed with faculty guidance, Department of Computer Science and Engineering, **Acharya Institute of Technology, Bengaluru**.
+**Shravya U Shetty** — academic project contributor and portfolio owner, Department of Computer Science and Engineering, **Acharya Institute of Technology, Bengaluru**.
 
 The source submitted was titled **"OBJECT DETECTION UNDER WATER"**, Group 9, Phase I synopsis dated **30 October 2024**.
 
 ## Important distinction
 
-Results mentioned in the literature survey refer to **other published research**, not benchmark results obtained by this team. Until implementation and measurements are shared, do not claim a tested accuracy, faster processing, or deployment as a finished product.
+Results mentioned in the literature survey refer to **other published research**, not benchmark results obtained by this project. Until implementation and measurements are shared, do not claim a tested accuracy, faster processing, or deployment as a finished product.
 
 ## Later project notes
 

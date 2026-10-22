@@ -14,7 +14,7 @@
 6. Measure latency and hardware resource usage before claiming real-time operation.
 
 ## What the provided evidence actually establishes
-- A Phase I synopsis and literature survey were prepared by the named student team at Acharya Institute of Technology in 2024–2025.
+- A Phase I synopsis and literature survey were prepared for this academic project at Acharya Institute of Technology in 2024–2025.
 - The manuscript proposes CNNs, color correction, denoising, augmentation and potential transfer learning.
 - It outlines an underwater camera / Raspberry Pi / transmission concept.
 

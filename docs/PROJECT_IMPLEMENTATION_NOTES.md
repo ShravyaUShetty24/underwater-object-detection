@@ -27,8 +27,5 @@ Underwater color distortion, lighting and particle noise can reduce prediction r
 - Before/after enhancement examples with permission
 - Representative inference demo screenshots that exclude private data
 
-## Portfolio profile
-**Shravya U Shetty** — academic project contributor and portfolio owner, Acharya Institute of Technology, Bengaluru. This page focuses on her reported work.
-
 ## Source distinction
 The Phase I synopsis is a planning document. The interview notes provide a **retrospective, self-reported implementation narrative**. This file reconciles their scope without promoting unverified results as independently measured outcomes.

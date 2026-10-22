@@ -51,8 +51,6 @@ flowchart TD
 
 No training code, original dataset, model weights or runnable demo have been supplied for publication. These can be added if available and cleared for release.
 
-## Portfolio profile
-
 **Shravya U Shetty** — academic project contributor and portfolio owner, Department of Computer Science and Engineering, **Acharya Institute of Technology, Bengaluru**.
 
 The source submitted was titled **"OBJECT DETECTION UNDER WATER"**, Group 9, Phase I synopsis dated **30 October 2024**.

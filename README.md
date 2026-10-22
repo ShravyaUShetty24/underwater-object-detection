@@ -1,8 +1,5 @@
 # Object Detection Under Water
 
-**Academic Phase I Project Synopsis (2024–2025)**  
-*CNN-based underwater object recognition and image enhancement*
-
 > **Status:** Documented research proposal / Phase I synopsis. The submitted material does not establish that a runnable model, trained weights, evaluation dataset, robot, or deployed inference system is available in this repository. This is a technical case study, **not** a verified working implementation.
 
 ## The challenge
@@ -50,7 +47,3 @@ No training code, original dataset, model weights or runnable demo have been sup
 ## Important distinction
 
 Results mentioned in the literature survey refer to **other published research**, not benchmark results obtained by this project. Until implementation and measurements are shared, do not claim a tested accuracy, faster processing, or deployment as a finished product.
-
-## Later project notes
-
-Shravya's separately supplied interview notes describe OpenCV preprocessing and **CNN classification** of fish, human and rock images. See [reported implementation notes](docs/PROJECT_IMPLEMENTATION_NOTES.md). This later account goes beyond the original Phase I proposal, but runnable training code, datasets and measured evaluation results have not yet been provided, so the repository remains documentation-only.

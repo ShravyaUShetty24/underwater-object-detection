@@ -32,6 +32,12 @@ flowchart TD
     E --> F[Evaluate in low light and turbid water]
 ```
 
+## Detailed project explanation
+
+The supplied project notes describe a pipeline involving **underwater image acquisition, OpenCV color correction and denoising, a CNN classifier and image-level predictions**. The walkthrough discusses labeled fish/human/rock examples, a sample 70/15/15 dataset split and potential YOLO-based detection as future work. These details are **reported in the project notes**, not independently reproduced from runnable code.
+
+See the [**full project workflow, CNN explanation and key challenges**](docs/DETAILED_PROJECT_EXPLANATION.md).
+
 ## Portfolio deliverables
 
 - [Technical methodology](docs/TECHNICAL_METHODOLOGY.md)
@@ -40,9 +46,6 @@ flowchart TD
 
 No training code, original dataset, model weights or runnable demo have been supplied for publication. These can be added if available and cleared for release.
 
-**Shravya U Shetty** — academic project contributor and portfolio owner, Department of Computer Science and Engineering, **Acharya Institute of Technology, Bengaluru**.
-
-The source submitted was titled **"OBJECT DETECTION UNDER WATER"**, Group 9, Phase I synopsis dated **30 October 2024**.
 
 ## Important distinction
 
